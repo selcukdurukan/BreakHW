@@ -21,12 +21,12 @@ public class Backtracking {
 
 	}
 
-	private static String recursiveMethod(String x) {
+	private static void recursiveMethod(String x) {
 
 		for (int i = 1; i <x.length()+1 ; i++) {
 			System.out.print(x.charAt(x.length()-i));
 		}
-		return x;
+		
 		
 		//TODO I'll do this homework with recursive method later.
 	}

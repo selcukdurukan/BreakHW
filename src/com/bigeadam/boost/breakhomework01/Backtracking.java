@@ -27,7 +27,6 @@ public class Backtracking {
 			System.out.print(x.charAt(x.length()-i));
 		}
 		
-		
 		//TODO I'll do this homework with recursive method later.
 	}
 
